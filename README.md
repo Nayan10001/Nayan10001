@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Jyoti Das</h1>
-<h3 align="center">A passionate backend engineer with a strong interest in data science, machine learning, and artificial intelligence</h3>
+<h3 align="center">A passionate machine learning engineer with a strong interest in data science, artificial intelligence, and building intelligent, autonomous systems that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan10001&label=Profile%20views&color=0e75b6&style=flat" alt="nayan10001" /> </p>
 
